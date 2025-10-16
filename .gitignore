@@ -7,3 +7,24 @@ __pycache__/
 *.pdf
 reports/figures/
 notebooks/.ipynb_checkpoints/
+# OS / editors
+.DS_Store
+.Rhistory
+.Rapp.history
+.Rproj.user/
+.ipynb_checkpoints/
+*.Rproj
+.Rprofile
+.Rprofile 2
+
+# build/output
+reports/tables/
+reports/*.csv
+reports/*.tsv
+reports/*.png
+reports/*.pdf
+
+# virtual envs & misc
+.venv/
+env/
+*.sqlite-journal
