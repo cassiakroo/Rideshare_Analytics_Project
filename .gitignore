@@ -1,22 +1,9 @@
-# R
-.Rhistory
-.Rproj.user/
-.RData
-renv/staging/
-renv/library/
-
-# Python
-.venv/
-__pycache__/
-.ipynb_checkpoints/
-
-# OS / misc
 .DS_Store
-
-# Big data artifacts (keep samples only)
+data/
+__pycache__/
+*.pyc
 *.sqlite
 *.db
-data/raw/*
-!data/*sample*.csv
-.DS_Store
-.venv/
+*.pdf
+reports/figures/
+notebooks/.ipynb_checkpoints/
