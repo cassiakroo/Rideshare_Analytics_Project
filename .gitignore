@@ -28,3 +28,4 @@ reports/*.pdf
 .venv/
 env/
 *.sqlite-journal
+!reports/Rideshare_Report.pdf
