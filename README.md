@@ -43,7 +43,7 @@ The analysis focuses on uncovering key ridership patterns, temporal trends, and 
 
 ### Exploratory Data Analysis 
 - **Notebook:** [02_eda_queries.ipynb](notebooks/02_eda_queries.ipynb)
-- **Report:** [Clean HTML version](reports/02_eda_queries_clean.html)
+- **Report:** [LaTex version](reports/Rideshare_Report.pdf)
 
 ---
 
